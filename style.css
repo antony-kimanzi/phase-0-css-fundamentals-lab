@@ -32,7 +32,8 @@ figcaption {
 
 #details div {
   float: left;
-  background-color: darkblue;
+  background-color: rgb(228, 18, 18);
+  color: black;
   text-align: center;
   width: 25%;
 }
